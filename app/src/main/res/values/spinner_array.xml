@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="algorithm">
+        <item>Algorithm 1</item>
+        <item>Algorithm 2</item>
+        <item>Algorithm 3</item>
+        <item>Algorithm 4</item>
+        <item>Algorithm 5</item>
+        <item>Algorithm 6</item>
+        <item>Algorithm 7</item>
+        <item>Algorithm 8</item>
+    </string-array>
+</resources>
